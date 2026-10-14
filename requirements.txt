@@ -1,0 +1,10 @@
+torch
+monai
+nibabel
+numpy
+scipy
+scikit-learn
+pandas
+pyyaml
+tqdm
+pytest
